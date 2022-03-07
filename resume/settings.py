@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     'accounts',
     'main',
     'board',
-    'tinymce',
     'posts',
 ]
 
